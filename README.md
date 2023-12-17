@@ -17,7 +17,7 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 📦 Supply Chain View - Keep tabs on demand and supply.
 📈 Executive View - The big picture of company performance
 
-📈 ### Some of the vital KPIs in the mix:
+ ###📈 Some of the vital KPIs in the mix:
 ❇ Net Sales
 ❇ Gross Margin %
 ❇ Net Profit %
@@ -25,7 +25,7 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 ❇ Absolute Error
 ❇ Forecast Accuracy %
 
-💡 ### What I've learned along the way:
+### 💡 What I've learned along the way:
 + Data modeling techniques
 + KPI indicators usage
 + Creating calculated columns

@@ -23,7 +23,7 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 
 📈 Executive View - The big picture of company performance
 
- ###📈 Some of the vital KPIs in the mix:
+ ### 📈 Some of the vital KPIs in the mix:
 ❇ Net Sales
 ❇ Gross Margin %
 ❇ Net Profit %

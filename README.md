@@ -1,4 +1,4 @@
-# Business-Insight-360
+# Business-Insights-360
 
 [Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQ4MGYxMDEtZjZiYS00ZmY4LTlhNDItODY5NDBlNTQ1YzM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 

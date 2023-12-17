@@ -10,7 +10,8 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 
 ### 📂 Here's a quick look at the dashboards:
 🏠 Home - Your hub for an overview of all the Pages.
-ℹ️ Info - All the essential information you need.
+
+ ℹ️ Info - All the essential information you need.
 💰 Finance View - Dive into the P & L performance.
 📊 Sales View - Get the breakdown on customer performance.
 🎯 Marketing View - Explore product performance.

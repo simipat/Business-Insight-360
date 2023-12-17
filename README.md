@@ -8,7 +8,7 @@ Welcome to the AtliQ Hardware Business Insights 360  project. In this project I 
 
 In this project, I've built a series of dashboards that offer invaluable perspectives on finance, sales, marketing, supply chain, and executive performance. The key takeaway? Data transparency leads to informed decisions, setting the stage for long-term success.
 
-📂 ### Here's a quick look at the dashboards:
+### 📂 Here's a quick look at the dashboards:
 🏠 Home - Your hub for an overview of all the Pages.
 ℹ️ Info - All the essential information you need.
 💰 Finance View - Dive into the P & L performance.

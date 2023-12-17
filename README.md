@@ -25,10 +25,15 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 
  ### 📈 Some of the vital KPIs in the mix:
 ❇ Net Sales
+
 ❇ Gross Margin %
+
 ❇ Net Profit %
+
 ❇ Net Error
+
 ❇ Absolute Error
+
 ❇ Forecast Accuracy %
 
 ### 💡 What I've learned along the way:

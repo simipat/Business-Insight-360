@@ -12,10 +12,15 @@ In this project, I've built a series of dashboards that offer invaluable perspec
 🏠 Home - Your hub for an overview of all the Pages.
 
  ℹ️ Info - All the essential information you need.
+ 
 💰 Finance View - Dive into the P & L performance.
+
 📊 Sales View - Get the breakdown on customer performance.
+
 🎯 Marketing View - Explore product performance.
+
 📦 Supply Chain View - Keep tabs on demand and supply.
+
 📈 Executive View - The big picture of company performance
 
  ###📈 Some of the vital KPIs in the mix:
